@@ -1,0 +1,328 @@
+#contenedor{
+    width: 100vw;
+    height: 65vw;
+    background-color:#FBFFF1;
+    position: relative;
+}
+#barra{
+    width: 100vw;
+    height: 5vw;
+    background-color: #C8B6FF;
+    position: fixed;
+    z-index: 2;
+}
+#x{
+    width: 2vw;
+    height: 2vw;
+    position: fixed;
+    margin-left: 95vw;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2vw;
+}
+#cuadro{
+    width: 2vw;
+    height: 2vw;
+    position: fixed;
+    margin-left: 92vw;
+    margin-top: 2vw;
+}
+#menos{
+    width: 2vw;
+    height: 2vw;
+    position: fixed;
+    margin-left: 88vw;
+    margin-top: 2vw;
+}
+#cuadro1{
+    width: 60vw;
+    height: 50vw;
+    background-color: aliceblue;
+    position: absolute;
+    margin-top: 12vw;
+    margin-left: 37vw;
+    border-radius: 5vw;
+    border: 1px solid #C8B6FF;
+}
+#imagen1{
+    width: 2vw;
+    height: 2vw;
+    position: absolute;
+    margin-top: 58vw;
+    margin-left: 90vw;
+}
+#imagen2{
+    width: 2vw;
+    height: 2vw;
+    position: absolute;
+    margin-top: 15vw;
+    margin-left: 90vw;
+}
+#cuadro2{
+    width: 10vw;
+    height: 12vw;
+    background-color: rgba(0, 162, 255, 0.733);
+    position: absolute;
+    margin-top: 23vw;
+    margin-left: 40vw;
+    border-radius: 2vw;
+}
+#cuadro3{
+    width: 10vw;
+    height: 12vw;
+    background-color: rgba(0, 162, 255, 0.733);
+    position: absolute;
+    margin-top: 23vw;
+    margin-left: 53vw;
+    border-radius: 2vw;
+}
+#cuadro4{
+    width: 10vw;
+    height: 12vw;
+    background-color: rgba(0, 162, 255, 0.733);
+    position: absolute;
+    margin-top: 23vw;
+    margin-left: 67vw;
+    border-radius: 2vw;
+}
+#cuadro5{
+    width: 10vw;
+    height: 12vw;
+    background-color: rgba(0, 162, 255, 0.733);
+    position: absolute;
+    margin-top: 23vw;
+    margin-left: 81vw;
+    border-radius: 2vw;
+}
+#cuadro6{
+    width: 10vw;
+    height: 12vw;
+    background-color: rgba(0, 162, 255, 0.733);
+    position: absolute;
+    margin-top: 40vw;
+    margin-left: 40vw;
+    border-radius: 2vw;
+}
+#margen1{
+    width: 10vw;
+    height: 4vw;
+    background-color: white;
+    border-radius: 2vw;
+    position: absolute;
+    margin-top: 31vw;
+    margin-left: 40vw;
+    font-size: 1vw;
+    justify-content: center;
+    display: flex;
+}
+#margen2{
+    width: 10vw;
+    height: 4vw;
+    background-color: white;
+    border-radius: 2vw;
+    position: absolute;
+    margin-top: 31vw;
+    margin-left: 53vw;
+    font-size: 1vw;
+    justify-content: center;
+    display: flex;
+}
+#margen3{
+    width: 10vw;
+    height: 4vw;
+    background-color: white;
+    border-radius: 2vw;
+    position: absolute;
+    margin-top: 31vw;
+    margin-left: 67vw;
+    font-size: 1vw;
+    justify-content: center;
+    display: flex;
+}
+#margen4{
+    width: 10vw;
+    height: 4vw;
+    background-color: white;
+    border-radius: 2vw;
+    position: absolute;
+    margin-top: 31vw;
+    margin-left: 81vw;
+    font-size: 1vw;
+    justify-content: center;
+    display: flex;
+}
+#margen5{
+    width: 10vw;
+    height: 4vw;
+    background-color: white;
+    border-radius: 2vw;
+    position: absolute;
+    margin-top: 48vw;
+    margin-left: 40vw;
+    font-size: 1vw;
+    justify-content: center;
+    display: flex;
+}
+#agregar4{
+    width: 5vw;
+    height: 1vw;
+    background-color: green;
+    border-radius: 1vw;
+    position: absolute;
+    margin-top: 50.5vw;
+    margin-left: 42vw;
+    font-size: 0.8vw;
+    justify-content: center;
+    display: flex;
+}
+#agregar5{
+    width: 5vw;
+    height: 1vw;
+    background-color: green;
+    border-radius: 1vw;
+    position: absolute;
+    margin-top: 33.5vw;
+    margin-left: 42vw;
+    font-size: 0.8vw;
+    justify-content: center;
+    display: flex;
+}
+#agregar6{
+    width: 5vw;
+    height: 1vw;
+    background-color: green;
+    border-radius: 1vw;
+    position: absolute;
+    margin-top: 33.5vw;
+    margin-left: 55vw;
+    font-size: 0.8vw;
+    justify-content: center;
+    display: flex;
+}
+#agregar7{
+    width: 5vw;
+    height: 1vw;
+    background-color: green;
+    border-radius: 1vw;
+    position: absolute;
+    margin-top: 33.5vw;
+    margin-left: 69vw;
+    font-size: 0.8vw;
+    justify-content: center;
+    display: flex;
+}
+#agregar8{
+    width: 5vw;
+    height: 1vw;
+    background-color: green;
+    border-radius: 1vw;
+    position: absolute;
+    margin-top: 33.5vw;
+    margin-left: 83vw;
+    font-size: 0.8vw;
+    justify-content: center;
+    display: flex;
+}
+#imagen3{
+    width: 5vw;
+    height: 5vw;
+    position: absolute;
+    margin-top: 24vw;
+    margin-left: 42vw;
+}
+#imagen4{
+    width: 5vw;
+    height: 5vw;
+    position: absolute;
+    margin-top: 24vw;
+    margin-left: 55vw;
+}
+#imagen5{
+    width: 5vw;
+    height: 5vw;
+    position: absolute;
+    margin-top: 24vw;
+    margin-left: 69vw;
+}
+#imagen6{
+    width: 5vw;
+    height: 5vw;
+    position: absolute;
+    margin-top: 24vw;
+    margin-left: 84vw;
+}
+#imagen7{
+    width: 5vw;
+    height: 5vw;
+    position: absolute;
+    margin-top: 42vw;
+    margin-left: 42vw;
+}
+#campuss{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 12vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+}
+#todos1{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 20vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+}
+#abrigos{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 24vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+    text-decoration: none;
+}
+#camisetas{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 27vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+    text-decoration: none;
+}
+#pantalones{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 30vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+    text-decoration: none;
+}
+#carrito{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 42vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+    text-decoration: none;
+}
+#camper{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 55vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+}
+#abrigoss{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 15vw;
+    margin-left: 42vw;
+    font-size: 2vw;
+}
