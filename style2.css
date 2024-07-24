@@ -1,7 +1,7 @@
 #contenedor{
     width: 100vw;
     height: 65vw;
-    background-color:#FBFFF1;
+    background-color:white;
     position: relative;
 }
 #barra{
@@ -58,15 +58,7 @@
     margin-top: 15vw;
     margin-left: 90vw;
 }
-#cuadro2{
-    width: 10vw;
-    height: 12vw;
-    background-color: rgba(0, 162, 255, 0.733);
-    position: absolute;
-    margin-top: 23vw;
-    margin-left: 40vw;
-    border-radius: 2vw;
-}
+
 #cuadro3{
     width: 10vw;
     height: 12vw;
@@ -273,21 +265,24 @@
     margin-top: 20vw;
     margin-left: 5vw;
     font-size: 2vw;
+    text-decoration: none;
 }
 #abrigos{
     width: 30vw;
     color: black;
     position: absolute;
-    margin-top: 24vw;
+    margin-top: 25vw;
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
+    background-color: #C8B6FF;
+    border-radius: 1vw;
 }
 #camisetas{
     width: 30vw;
     color: black;
     position: absolute;
-    margin-top: 27vw;
+    margin-top: 30vw;
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
@@ -296,7 +291,7 @@
     width: 30vw;
     color: black;
     position: absolute;
-    margin-top: 30vw;
+    margin-top: 35vw;
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
@@ -325,4 +320,39 @@
     margin-top: 15vw;
     margin-left: 42vw;
     font-size: 2vw;
+}
+#imagen8{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 25vw;
+    margin-left: 1vw;
+}
+#imagen9{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 30vw;
+    margin-left: 1vw;
+}
+#imagen10{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 35vw;
+    margin-left: 1vw;
+}
+#imagen11{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 20vw;
+    margin-left: 1vw;
+}
+#imagen12{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 42vw;
+    margin-left: 1vw;
 }

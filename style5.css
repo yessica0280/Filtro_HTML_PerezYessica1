@@ -1,7 +1,7 @@
 #contenedor{
     width: 100vw;
     height: 65vw;
-    background-color: #FBFFF1;
+    background-color: white;
     position: relative;
 }
 #barra{
@@ -73,12 +73,13 @@
     margin-top: 20vw;
     margin-left: 5vw;
     font-size: 2vw;
+    text-decoration: none;
 }
 #abrigos{
     width: 30vw;
     color: black;
     position: absolute;
-    margin-top: 24vw;
+    margin-top: 25vw;
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
@@ -87,7 +88,7 @@
     width: 30vw;
     color: black;
     position: absolute;
-    margin-top: 27vw;
+    margin-top: 30vw;
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
@@ -96,7 +97,7 @@
     width: 30vw;
     color: black;
     position: absolute;
-    margin-top: 30vw;
+    margin-top: 35vw;
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
@@ -109,6 +110,8 @@
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
+    background-color: #C8B6FF;
+    border-radius: 1vw;
 }
 #camper{
     width: 30vw;
@@ -163,6 +166,7 @@
     border-radius: 2vw;
     display: flex;
     align-items: center;
+    font-size: 1.5vw;
 }
 #imagen3{
     width: 5vw;
@@ -292,4 +296,78 @@
     justify-content: center;
     border-radius: 2vw;
     text-decoration: none;
+    color: black;
+    align-items: center;
+    font-size: 1.5vw;
+}
+#imagen8{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 25vw;
+    margin-left: 1vw;
+}
+#imagen9{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 30vw;
+    margin-left: 1vw;
+}
+#imagen10{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 35vw;
+    margin-left: 1vw;
+}
+#imagen11{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 20vw;
+    margin-left: 1vw;
+}
+#imagen12{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 42vw;
+    margin-left: 1vw;
+}
+#ahora{
+    width: 11vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 51.5vw;
+    margin-left:82vw;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    border-radius: 2vw;
+    text-decoration: none;
+    color: black;
+    align-items: center;
+    font-size: 1.5vw;
+}
+#imagen13{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 42vw;
+    margin-left: 90vw;
+}
+#imagen14{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 31vw;
+    margin-left: 90vw;
+}
+#imagen15{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 22vw;
+    margin-left: 90vw;
 }
