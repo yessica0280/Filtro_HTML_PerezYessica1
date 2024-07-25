@@ -61,7 +61,9 @@
 #cuadro2{
     width: 10vw;
     height: 12vw;
-    background-color: rgba(0, 162, 255, 0.733);
+    background-color: white;
+    border: 1px solid  #C8B6FF;
+    box-shadow: 0vw 0vw 0.8vw 0.2vw #C8B6FF;
     position: absolute;
     margin-top: 23vw;
     margin-left: 40vw;
@@ -70,7 +72,9 @@
 #cuadro3{
     width: 10vw;
     height: 12vw;
-    background-color: rgba(0, 162, 255, 0.733);
+    background-color: white;
+    border: 1px solid  #C8B6FF;
+    box-shadow: 0vw 0vw 0.8vw 0.2vw #C8B6FF;
     position: absolute;
     margin-top: 23vw;
     margin-left: 53vw;
@@ -79,7 +83,9 @@
 #cuadro4{
     width: 10vw;
     height: 12vw;
-    background-color: rgba(0, 162, 255, 0.733);
+    background-color: white;
+    border: 1px solid  #C8B6FF;
+    box-shadow: 0vw 0vw 0.8vw 0.2vw #C8B6FF;
     position: absolute;
     margin-top: 23vw;
     margin-left: 67vw;
@@ -88,7 +94,9 @@
 #cuadro5{
     width: 10vw;
     height: 12vw;
-    background-color: rgba(0, 162, 255, 0.733);
+    background-color: white;
+    border: 1px solid  #C8B6FF;
+    box-shadow: 0vw 0vw 0.8vw 0.2vw #C8B6FF;
     position: absolute;
     margin-top: 23vw;
     margin-left: 81vw;
@@ -97,7 +105,9 @@
 #cuadro6{
     width: 10vw;
     height: 12vw;
-    background-color: rgba(0, 162, 255, 0.733);
+    background-color: white;
+    border: 1px solid  #C8B6FF;
+    box-shadow: 0vw 0vw 0.8vw 0.2vw #C8B6FF;
     position: absolute;
     margin-top: 40vw;
     margin-left: 40vw;
@@ -166,7 +176,7 @@
 #agregar4{
     width: 5vw;
     height: 1vw;
-    background-color: green;
+    background-color: #C8B6FF;
     border-radius: 1vw;
     position: absolute;
     margin-top: 50.5vw;
@@ -178,7 +188,7 @@
 #agregar5{
     width: 5vw;
     height: 1vw;
-    background-color: green;
+    background-color: #C8B6FF;
     border-radius: 1vw;
     position: absolute;
     margin-top: 33.5vw;
@@ -190,7 +200,7 @@
 #agregar6{
     width: 5vw;
     height: 1vw;
-    background-color: green;
+    background-color: #C8B6FF;
     border-radius: 1vw;
     position: absolute;
     margin-top: 33.5vw;
@@ -202,7 +212,7 @@
 #agregar7{
     width: 5vw;
     height: 1vw;
-    background-color: green;
+    background-color: #C8B6FF;
     border-radius: 1vw;
     position: absolute;
     margin-top: 33.5vw;
@@ -214,7 +224,7 @@
 #agregar8{
     width: 5vw;
     height: 1vw;
-    background-color: green;
+    background-color: #C8B6FF;
     border-radius: 1vw;
     position: absolute;
     margin-top: 33.5vw;
@@ -274,6 +284,10 @@
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
+    border-radius: 1vw;
+}
+#todos1:hover{
+    background-color: #C8B6FF;
 }
 #abrigos{
     width: 30vw;
@@ -283,6 +297,10 @@
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
+    border-radius: 1vw;
+}
+#abrigos:hover{
+    background-color: #C8B6FF;
 }
 #camisetas{
     width: 30vw;
@@ -292,6 +310,10 @@
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
+    border-radius: 1vw;
+}
+#camisetas:hover{
+    background-color: #C8B6FF;
 }
 #pantalones{
     width: 30vw;
@@ -301,8 +323,10 @@
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
-    background-color: #C8B6FF;
     border-radius: 1vw;
+}
+#pantalones:hover{
+    background-color: #C8B6FF;
 }
 #carrito{
     width: 30vw;
@@ -312,6 +336,10 @@
     margin-left: 5vw;
     font-size: 2vw;
     text-decoration: none;
+    border-radius: 1vw;
+}
+#carrito:hover{
+    background-color: #C8B6FF;
 }
 #camper{
     width: 30vw;

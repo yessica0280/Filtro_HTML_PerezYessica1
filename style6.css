@@ -1,7 +1,7 @@
 #contenedor{
     width: 100vw;
     height: 65vw;
-    background-color: #FBFFF1;
+    background-color: white;
     position: relative;
 }
 #barra{
@@ -57,4 +57,137 @@
     position: absolute;
     margin-top: 15vw;
     margin-left: 90vw;
+}
+#campuss{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 12vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+}
+#todos1{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 20vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+    text-decoration: none;
+    border-radius: 1vw;
+}
+#todos1:hover{
+    background-color: #C8B6FF;
+}
+#abrigos{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 25vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+    text-decoration: none;
+    border-radius: 1vw;
+}
+#abrigos:hover{
+    background-color: #C8B6FF;
+}
+#camisetas{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 30vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+    text-decoration: none;
+    border-radius: 1vw;
+}
+#camisetas:hover{
+    background-color: #C8B6FF;
+}
+#pantalones{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 35vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+    text-decoration: none;
+    border-radius: 1vw;
+}
+#pantalones:hover{
+    background-color: #C8B6FF;
+}
+#carrito{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 42vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+    text-decoration: none;
+    border-radius: 1vw;
+}
+#carrito:hover{
+    background-color: #C8B6FF;
+}
+#camper{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 55vw;
+    margin-left: 5vw;
+    font-size: 2vw;
+}
+
+#imagen8{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 25vw;
+    margin-left: 1vw;
+}
+#imagen9{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 30vw;
+    margin-left: 1vw;
+}
+#imagen10{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 35vw;
+    margin-left: 1vw;
+}
+#imagen11{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 20vw;
+    margin-left: 1vw;
+}
+#imagen12{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    margin-top: 42vw;
+    margin-left: 1vw;
+}
+#abrigoss{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 15vw;
+    margin-left: 42vw;
+    font-size: 3vw;
+}
+#vacio{
+    width: 30vw;
+    color: black;
+    position: absolute;
+    margin-top: 20vw;
+    margin-left: 42vw;
+    font-size: 3vw;
 }
